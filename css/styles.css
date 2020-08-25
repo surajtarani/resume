@@ -10119,6 +10119,11 @@ p.lead {
   margin: 5px;
 }
 
+.read-more-btn a{
+  text-decoration: none;
+  color: white;
+}
+
 .read-more-btn span {
   cursor: pointer;
   display: inline-block;
